@@ -1,0 +1,42 @@
+body {
+	background-image: url(https://images.unsplash.com/photo-1507525428034-b723cf961d3e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1506&q=80);
+	background-size: cover;
+}
+
+ul {
+	text-align: center;
+}
+
+li {
+	list-style: none;
+	display: inline-block;
+	color: rgba(255, 98, 0, 1);
+	font-size: 16pt;
+	padding: 0px 10px 0px 10px;
+	font-weight: bold;
+	font-family: fantasy, "Times New Roman";
+}
+
+p {
+	text-align: center;
+	padding-top: 250px;
+	font-weight: bold;
+	color: rgba(255, 98, 0, 1);
+	font-size: 28pt;
+	font-family: dancing script, "Times New Roman";
+}
+
+.button {
+	background-color: rgba(255, 98, 0, 1);
+	border: none;
+	border-radius: 8px;
+	color: white;
+	font-family: dancing script, "Times New Roman";
+	font-size: 16pt;
+	margin: 70px 0px 0px 0px;
+	padding: 5px 30px 5px 30px;
+}
+
+.button:hover {
+	color: black;
+}
